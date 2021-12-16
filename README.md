@@ -1,4 +1,6 @@
 # Explanation
+This repository contains a web crawler to crawl and scrape dark web marketplaces
+
 requirements.txt contains the python requirements
 crawlers contain the notebooks with crawlers for the four different marketplaces
 data contains the scraped data
